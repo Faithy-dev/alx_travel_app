@@ -1,1 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+celery
+pika  # RabbitMQ client
+drf-yasg
+django-environ
+mysqlclient  # for MySQL connection
 
